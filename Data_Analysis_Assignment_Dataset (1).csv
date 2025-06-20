@@ -1,0 +1,216 @@
+﻿Student_ID,Student_Name,Segment,Course_Name,Completion_Status,Score,Fees_Paid,Course_Fee (VLOOKUP)
+S1000,Raj,College,SQL Foundations,Completed,77,6166,5742.416667
+S1001,Simran,College,AI for Beginners,Dropped,56,3843,6657.724138
+S1002,Raj,Professional,Excel Mastery,In Progress,67,8189,6558.071429
+S1003,Raj,College,SQL Foundations,Completed,58,2363,5742.416667
+S1004,Neha,College,AI for Beginners,Completed,59,4456,6657.724138
+S1005,Ankit,College,Data Analysis,Completed,55,7117,6066.526316
+S1006,Simran,Professional,Excel Mastery,Completed,93,5338,6558.071429
+S1007,Amit,School,Excel Mastery,Completed,77,7578,6558.071429
+S1008,Simran,School,AI for Beginners,In Progress,87,6692,6657.724138
+S1009,Riya,College,Python Basics,In Progress,68,7187,7240.714286
+S1010,Karan,College,Python Basics,Completed,58,9114,7240.714286
+S1011,Priya,Professional,Data Analysis,Completed,97,9569,6066.526316
+S1012,Neha,School,Data Analysis,Dropped,65,9692,6066.526316
+S1013,Riya,Professional,Power BI,In Progress,69,9372,6792.615385
+S1014,Riya,School,SQL Foundations,In Progress,71,3134,5742.416667
+S1015,Simran,Professional,Power BI,Completed,67,5061,6792.615385
+S1016,Amit,Professional,SQL Foundations,In Progress,90,7280,5742.416667
+S1017,Amit,College,Data Analysis,Completed,53,2033,6066.526316
+S1018,Sahil,School,Excel Mastery,Completed,93,7413,6558.071429
+S1019,Karan,Professional,Excel Mastery,Dropped,69,6937,6558.071429
+S1020,Karan,College,Python Basics,In Progress,85,3372,7240.714286
+S1021,Riya,Professional,Python Basics,Dropped,91,9849,7240.714286
+S1022,Simran,School,Excel Mastery,In Progress,81,2580,6558.071429
+S1023,Amit,College,Python Basics,Completed,71,6141,7240.714286
+S1024,Raj,School,Data Analysis,Completed,55,3636,6066.526316
+S1025,Neha,Professional,AI for Beginners,In Progress,61,3811,6657.724138
+S1026,Ankit,College,Power BI,In Progress,85,6905,6792.615385
+S1027,Megha,Professional,AI for Beginners,Completed,99,9885,6657.724138
+S1028,Karan,Professional,Data Analysis,In Progress,70,4108,6066.526316
+S1029,Simran,Professional,AI for Beginners,Dropped,89,8764,6657.724138
+S1030,Riya,Professional,Python Basics,In Progress,62,8679,7240.714286
+S1031,Raj,College,Data Analysis,Dropped,52,8680,6066.526316
+S1032,Karan,College,Python Basics,In Progress,73,4989,7240.714286
+S1033,Raj,College,Python Basics,In Progress,73,4903,7240.714286
+S1034,Megha,School,Data Analysis,In Progress,51,6644,6066.526316
+S1035,Neha,Professional,AI for Beginners,Completed,97,6113,6657.724138
+S1036,Sahil,Professional,SQL Foundations,Dropped,99,5823,5742.416667
+S1037,Ankit,College,Excel Mastery,In Progress,88,9451,6558.071429
+S1038,Amit,School,Data Analysis,In Progress,71,9722,6066.526316
+S1039,Simran,School,SQL Foundations,Completed,59,7273,5742.416667
+S1040,Simran,Professional,Python Basics,In Progress,92,6934,7240.714286
+S1041,Raj,Professional,SQL Foundations,Completed,66,8477,5742.416667
+S1042,Megha,College,SQL Foundations,Completed,66,5203,5742.416667
+S1043,Simran,College,Excel Mastery,In Progress,86,8437,6558.071429
+S1044,Megha,College,Data Analysis,Completed,100,2492,6066.526316
+S1045,Amit,College,Python Basics,In Progress,80,9993,7240.714286
+S1046,Karan,School,SQL Foundations,Dropped,66,4269,5742.416667
+S1047,Neha,School,SQL Foundations,In Progress,56,3043,5742.416667
+S1048,Sahil,College,Data Analysis,Completed,61,3129,6066.526316
+S1049,Amit,College,Python Basics,In Progress,90,8975,7240.714286
+S1050,Megha,School,AI for Beginners,Dropped,98,7754,6657.724138
+S1051,Sahil,Professional,AI for Beginners,In Progress,100,4617,6657.724138
+S1052,Riya,College,Power BI,Dropped,65,3337,6792.615385
+S1053,Priya,Professional,Excel Mastery,In Progress,96,2434,6558.071429
+S1054,Sahil,School,Excel Mastery,Completed,83,5905,6558.071429
+S1055,Simran,School,Power BI,Completed,57,7286,6792.615385
+S1056,Karan,Professional,Data Analysis,Dropped,54,2942,6066.526316
+S1057,Amit,School,Power BI,Dropped,73,2620,6792.615385
+S1058,Ankit,Professional,Data Analysis,Completed,80,4472,6066.526316
+S1059,Neha,School,AI for Beginners,In Progress,53,7937,6657.724138
+S1060,Ankit,Professional,Excel Mastery,Dropped,64,3970,6558.071429
+S1061,Priya,College,Data Analysis,In Progress,79,9036,6066.526316
+S1062,Neha,School,Data Analysis,In Progress,96,8397,6066.526316
+S1063,Priya,School,Python Basics,Dropped,88,7571,7240.714286
+S1064,Ankit,Professional,Excel Mastery,In Progress,60,8084,6558.071429
+S1065,Sahil,College,Data Analysis,Completed,87,7592,6066.526316
+S1066,Priya,College,Data Analysis,Completed,65,4756,6066.526316
+S1067,Simran,School,Data Analysis,In Progress,82,9453,6066.526316
+S1068,Simran,Professional,Power BI,In Progress,86,8974,6792.615385
+S1069,Neha,College,Excel Mastery,Dropped,88,4721,6558.071429
+S1070,Riya,College,Data Analysis,Completed,84,4939,6066.526316
+S1071,Sahil,Professional,Python Basics,Dropped,94,5452,7240.714286
+S1072,Riya,Professional,AI for Beginners,Completed,96,8657,6657.724138
+S1073,Priya,School,Excel Mastery,Dropped,92,5003,6558.071429
+S1074,Amit,School,Data Analysis,Dropped,57,9655,6066.526316
+S1075,Riya,Professional,Python Basics,In Progress,67,8803,7240.714286
+S1076,Priya,Professional,SQL Foundations,In Progress,97,3759,5742.416667
+S1077,Riya,Professional,Python Basics,Completed,90,7385,7240.714286
+S1078,Priya,School,Power BI,Dropped,62,3937,6792.615385
+S1079,Neha,College,Data Analysis,In Progress,83,5082,6066.526316
+S1080,Raj,Professional,AI for Beginners,In Progress,83,9481,6657.724138
+S1081,Amit,College,AI for Beginners,In Progress,63,9239,6657.724138
+S1082,Priya,Professional,AI for Beginners,Dropped,67,6679,6657.724138
+S1083,Priya,College,Power BI,In Progress,78,7612,6792.615385
+S1084,Neha,School,Data Analysis,Dropped,51,8815,6066.526316
+S1085,Priya,College,Python Basics,Completed,66,9146,7240.714286
+S1086,Riya,School,SQL Foundations,Completed,98,9217,5742.416667
+S1087,Neha,Professional,Power BI,In Progress,83,8483,6792.615385
+S1088,Amit,School,Data Analysis,In Progress,68,2675,6066.526316
+S1089,Megha,School,AI for Beginners,Completed,83,5767,6657.724138
+S1090,Neha,Professional,Excel Mastery,Completed,99,4556,6558.071429
+S1091,Sahil,School,Power BI,Dropped,51,4597,6792.615385
+S1092,Raj,School,Power BI,In Progress,70,8727,6792.615385
+S1093,Raj,College,SQL Foundations,Dropped,92,5122,5742.416667
+S1094,Sahil,Professional,Excel Mastery,In Progress,71,7990,6558.071429
+S1095,Neha,School,Python Basics,Dropped,93,9893,7240.714286
+S1096,Raj,School,AI for Beginners,In Progress,65,3794,6657.724138
+S1097,Raj,Professional,Data Analysis,Completed,94,3286,6066.526316
+S1098,Karan,College,Excel Mastery,Dropped,76,6029,6558.071429
+S1099,Riya,College,SQL Foundations,Completed,88,4733,5742.416667
+S1100,Priya,Professional,Python Basics,Dropped,97,9938,7240.714286
+S1101,Megha,Professional,SQL Foundations,Completed,93,4178,5742.416667
+S1102,Karan,Professional,AI for Beginners,Dropped,80,7192,6657.724138
+S1103,Priya,School,Data Analysis,In Progress,73,9691,6066.526316
+S1104,Ankit,School,SQL Foundations,Completed,97,5553,5742.416667
+S1105,Amit,School,SQL Foundations,Completed,83,9430,5742.416667
+S1106,Neha,Professional,Power BI,Completed,92,9721,6792.615385
+S1107,Riya,School,Python Basics,Completed,98,9862,7240.714286
+S1108,Amit,College,Data Analysis,In Progress,66,6334,6066.526316
+S1109,Sahil,College,AI for Beginners,Completed,80,3948,6657.724138
+S1110,Megha,College,Data Analysis,In Progress,98,3204,6066.526316
+S1111,Priya,Professional,Power BI,Dropped,93,9513,6792.615385
+S1112,Karan,College,Excel Mastery,Completed,51,5346,6558.071429
+S1113,Amit,College,Excel Mastery,Completed,55,3113,6558.071429
+S1114,Riya,School,Python Basics,Completed,100,6503,7240.714286
+S1115,Raj,Professional,Power BI,Completed,86,9569,6792.615385
+S1116,Riya,School,Python Basics,Dropped,93,6140,7240.714286
+S1117,Simran,College,Power BI,Dropped,94,4758,6792.615385
+S1118,Riya,College,AI for Beginners,Completed,52,6203,6657.724138
+S1119,Ankit,Professional,Python Basics,Completed,85,8983,7240.714286
+S1120,Sahil,Professional,AI for Beginners,Completed,77,3925,6657.724138
+S1121,Amit,College,Python Basics,In Progress,85,2481,7240.714286
+S1122,Ankit,School,Data Analysis,Completed,74,3552,6066.526316
+S1123,Megha,School,Python Basics,Dropped,67,7248,7240.714286
+S1124,Raj,College,Python Basics,Dropped,65,3882,7240.714286
+S1125,Ankit,College,AI for Beginners,Dropped,86,8769,6657.724138
+S1126,Sahil,School,AI for Beginners,Dropped,64,6080,6657.724138
+S1127,Riya,School,Power BI,In Progress,98,2648,6792.615385
+S1128,Karan,Professional,Python Basics,Completed,56,8961,7240.714286
+S1129,Neha,College,Excel Mastery,Dropped,85,9272,6558.071429
+S1130,Riya,Professional,AI for Beginners,Dropped,99,9763,6657.724138
+S1131,Priya,School,Power BI,Completed,64,8674,6792.615385
+S1132,Sahil,Professional,AI for Beginners,Completed,50,9830,6657.724138
+S1133,Sahil,College,Power BI,Completed,50,8319,6792.615385
+S1134,Simran,Professional,Data Analysis,Completed,51,4498,6066.526316
+S1135,Priya,School,Power BI,In Progress,100,6602,6792.615385
+S1136,Amit,School,Excel Mastery,Completed,86,6554,6558.071429
+S1137,Amit,School,Power BI,Completed,72,3046,6792.615385
+S1138,Amit,Professional,Data Analysis,In Progress,91,2692,6066.526316
+S1139,Priya,College,Excel Mastery,In Progress,81,9532,6558.071429
+S1140,Neha,College,Data Analysis,In Progress,98,5253,6066.526316
+S1141,Amit,Professional,Power BI,In Progress,90,9975,6792.615385
+S1142,Karan,School,AI for Beginners,Dropped,86,5262,6657.724138
+S1143,Sahil,Professional,Data Analysis,In Progress,86,6556,6066.526316
+S1144,Riya,Professional,Power BI,In Progress,73,2677,6792.615385
+S1145,Simran,Professional,SQL Foundations,Dropped,83,8818,5742.416667
+S1146,Amit,Professional,Data Analysis,In Progress,91,8096,6066.526316
+S1147,Neha,College,Power BI,In Progress,50,7097,6792.615385
+S1148,Raj,School,Excel Mastery,Dropped,57,9723,6558.071429
+S1149,Karan,College,Excel Mastery,Dropped,98,8112,6558.071429
+S1150,Karan,School,Data Analysis,Completed,73,8963,6066.526316
+S1151,Sahil,College,Excel Mastery,In Progress,63,4868,6558.071429
+S1152,Riya,College,Python Basics,Completed,57,5607,7240.714286
+S1153,Riya,Professional,SQL Foundations,In Progress,82,4801,5742.416667
+S1154,Riya,Professional,Excel Mastery,In Progress,63,7520,6558.071429
+S1155,Priya,School,Power BI,In Progress,81,7892,6792.615385
+S1156,Priya,College,Power BI,Dropped,99,9206,6792.615385
+S1157,Karan,Professional,SQL Foundations,Dropped,92,8585,5742.416667
+S1158,Simran,Professional,Data Analysis,Completed,97,7961,6066.526316
+S1159,Karan,Professional,SQL Foundations,Completed,70,3796,5742.416667
+S1160,Neha,Professional,Python Basics,Dropped,86,8100,7240.714286
+S1161,Ankit,Professional,AI for Beginners,Dropped,78,2408,6657.724138
+S1162,Ankit,College,Data Analysis,Dropped,55,2972,6066.526316
+S1163,Priya,School,Python Basics,Completed,96,3619,7240.714286
+S1164,Priya,College,Data Analysis,In Progress,59,8144,6066.526316
+S1165,Simran,School,Python Basics,Completed,58,5202,7240.714286
+S1166,Neha,College,SQL Foundations,Dropped,75,3728,5742.416667
+S1167,Neha,College,Python Basics,Dropped,58,7985,7240.714286
+S1168,Karan,School,Python Basics,In Progress,79,9612,7240.714286
+S1169,Priya,School,SQL Foundations,In Progress,50,4928,5742.416667
+S1170,Sahil,Professional,AI for Beginners,In Progress,85,5813,6657.724138
+S1171,Karan,Professional,Excel Mastery,Completed,84,9574,6558.071429
+S1172,Priya,College,Python Basics,Completed,81,2280,7240.714286
+S1173,Neha,College,AI for Beginners,Dropped,99,7027,6657.724138
+S1174,Sahil,College,Excel Mastery,Dropped,96,5397,6558.071429
+S1175,Amit,Professional,SQL Foundations,Completed,97,8139,5742.416667
+S1176,Simran,College,Python Basics,In Progress,84,9506,7240.714286
+S1177,Neha,School,Data Analysis,Completed,79,4690,6066.526316
+S1178,Ankit,Professional,AI for Beginners,Dropped,70,9365,6657.724138
+S1179,Priya,Professional,Python Basics,Dropped,78,9130,7240.714286
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,COURSE NAME,AVERAGE FEES,Column1,,,
+,,SQL Foundations,5742.416667,5742.416667,,,
+,,Python Basics,7240.714286,7240.714286,,,
+,,Excel Mastery,6558.071429,6558.071429,,,
+,,Data Analysis,6066.526316,6066.526316,,,
+,,AI for Beginners,6758.25,6758.25,,,
+,,Power BI,6792.615385,6792.615385,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,Create a VLOOKUP function to display the Segment of student ID S1078.,,,,
+,,,Power BI,,,,
+,,,,,,,
+,,,,,,,
+ANSWERS,,,,,,,
