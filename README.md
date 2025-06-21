@@ -1,7 +1,7 @@
 # 📊 Data Analysis Assignment - The Future University
 
 ## 👋 Introduction
-This project is a part of the hiring process for the Data Analyst role at **The Future University**, an innovative ed-tech platform empowering learners through data-driven education. The assignment demonstrates proficiency in Excel functions, VLOOKUP, Pivot Tables, and conditional aggregation—tools essential for extracting insights from student performance and course data.
+This project was undertaken as part of my initial contributions to The Future University, an innovative ed-tech platform empowering learners through data-driven education. The assignment showcases proficiency in Excel functions, VLOOKUP, Pivot Tables, and conditional aggregation—tools essential for extracting insights from student performance and course data.
 
 ---
 
